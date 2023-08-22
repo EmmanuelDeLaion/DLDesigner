@@ -731,7 +731,7 @@ video {
 }
 
 .img-home {
-    background-image: url(/assets/images/imagen-portada-setup.jpg);
+    background-image: url('../assets/images/imagen-portada-setup.jpg');
     width: 100%;
     height: 100%;
     position: absolute;
@@ -1006,7 +1006,7 @@ video {
     position: relative;
     width: 100%;
     height: 300px;
-    background-image: url("assets/images/imagen-portada-setup.jpg");
+    background-image: url('../assets/images/imagen-portada-setup.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position-x: 50%;
